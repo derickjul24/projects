@@ -1,0 +1,51 @@
+body{
+	background: #006400;
+}
+
+label{
+	color: black;
+	font-size: 25px;
+}
+
+h1{
+	color: black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.home{
+	color: black;
+	font-size: 20px;
+}
+.brand{
+	color: black;
+	font-size: 30px;
+	position: absolute;
+	left: 100px;
+	width: 400px;
+}
+
+.subjects{
+	border-radius: 10px;
+	width: 100%;
+	height: 40px;
+	padding: 5px;
+}
+
+.navbar-inverse{
+	background-color: #556B2F;
+	margin-top:10px;
+	border: none;
+	
+}
+
+.navbar-nav{
+  position: absolute;
+  right: 0px;
+  width: 400px;
+}
+
+.table{
+	background-color: #ADFF2F;
+}
+
